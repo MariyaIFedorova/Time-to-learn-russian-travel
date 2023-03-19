@@ -13,10 +13,10 @@
         font-size: 2.7rem;
         line-height: 2.875rem;
         font-weight: 900;
-        margin: 0; 
+        margin: 0;
         justify-content: start;
         align-self: center;
-        grid-area: title; 
+        grid-area: title;
     }
 }
 
@@ -24,7 +24,7 @@
     .place__title {
         grid-area: title;
         margin: 0;
-        font-size: 4,5rem;
+        font-size: 4, 5rem;
         font-weight: 900;
         line-height: 4.75rem;
         justify-content: start;
@@ -37,9 +37,9 @@
         font-size: 4.5rem;
         line-height: 4.75rem;
         font-weight: 900;
-        margin: 0; 
-        grid-area: title;  
+        margin: 0;
+        grid-area: title;
         justify-content: start;
-        align-self: center;  
+        align-self: center;
     }
 }
