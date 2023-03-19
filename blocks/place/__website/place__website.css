@@ -26,10 +26,6 @@
     }
 }
 
-.place__website:hover {
-    cursor: url(../../../images/pointer.png), auto;
-}
-
 @media screen and (min-width:1024px) {
     .place__website {
         display: block;
@@ -42,10 +38,6 @@
     }
 }
 
-.place__website:hover {
-    cursor: url(../../../images/pointer.png), auto;
-}
-
 @media screen and (min-width:1280px) {
     .place__website {
         display: block;
@@ -56,8 +48,4 @@
         font-weight: 400;
         align-self: self-end;
     }
-}
-
-.place__website:hover {
-    cursor: url(../../../images/pointer.png), auto;
 }
