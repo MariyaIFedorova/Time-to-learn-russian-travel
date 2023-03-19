@@ -1,0 +1,53 @@
+.lead__caption {
+    padding-top: 3.3%;
+    padding-left: 5.3%;
+    color: #fff;
+    margin: 0;
+    font-size: 0.6rem;
+    line-height: 116%;
+    font-weight: 400;
+    letter-spacing: 0.1rem;
+    text-transform: capitalize;
+}
+
+@media screen and (min-width:768px) {
+    .lead__caption {
+        padding-top: 1%;
+        padding-left: 3.1%;
+        color: #fff;
+        margin: 0;
+        font-size: 0.625rem;
+        line-height: 0.87rem;
+        font-weight: 400;
+        letter-spacing: 0.1rem;
+        text-transform: capitalize;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .lead__caption {
+        padding-top: 0.8%;
+        padding-left: 4.7%;
+        color: #fff;
+        margin: 0;
+        font-size: 0.6rem;
+        line-height: 0.87%;
+        font-weight: 400;
+        letter-spacing: 0.1rem;
+        text-transform: capitalize;
+    }
+}
+
+@media screen and (min-width:1280px) {
+    .lead__caption {
+        padding-top: 0.64%;
+        padding-left: 11.6%;
+        color: #fff;
+        margin: 0;
+        font-size: 0.6rem;
+        line-height: 116%;
+        font-weight: 400;
+        letter-spacing: 0.1rem;
+        text-transform: capitalize;
+    }
+}

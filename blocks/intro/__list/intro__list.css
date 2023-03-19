@@ -1,0 +1,45 @@
+.intro__list {
+    margin: 0;
+    list-style-type: none;
+    padding-top: 12%;
+    padding-left: 0;
+    font-size: 0.75rem;
+    line-height: 1.1rem;
+    font-weight: bold;
+}
+
+@media screen and (min-width:768px) {
+    .intro__list {
+        margin: 0;
+        list-style-type: none;
+        padding-top: 4.6%;
+        padding-left: 0;
+        font-size: 0.75rem;
+        line-height: 1.1rem;
+        font-weight: bold;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .intro__list {
+        margin: 0;
+        list-style-type: none;
+        padding-top: 4.8%;
+        padding-left: 0;
+        font-size: 0.75rem;
+        line-height: 1.1rem;
+        font-weight: bold;
+    }
+}
+
+@media screen and (min-width:1280px) {
+    .intro__list {
+        margin: 0;
+        list-style-type: none;
+        padding-top: 4.8%;
+        padding-left: 0;
+        font-size: 0.77rem;
+        line-height: 1.1rem;
+        font-weight: bold;
+    }
+}

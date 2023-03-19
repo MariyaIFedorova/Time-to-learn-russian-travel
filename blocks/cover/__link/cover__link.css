@@ -1,0 +1,33 @@
+.cover__link {
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (min-width:768px) {
+    .cover__link {
+        color: #fff;
+        text-decoration: none;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .cover__link {
+        color: #fff;
+        text-decoration: none;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width:1280px) {
+    .cover__link {
+        color: #fff;
+        text-decoration: none;
+        display: flex;
+        justify-content: center;
+    }
+}

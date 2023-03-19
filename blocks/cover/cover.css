@@ -1,0 +1,139 @@
+.cover {
+    margin-top: 21.5%;
+    display: block;
+    position: relative;
+    background-image: url(../../images/__background.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: calc(100vw / 1.6);
+    width: 100%;
+    z-index: 0;
+    transition: 1s ease;
+}
+
+.cover::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #2A2C2F;
+    width: 100%;
+    background-size: 100%;
+    height: calc(100vw / 1.6);
+    opacity: .3;
+    z-index: 1;
+    transition: 1s ease;
+}
+
+.cover:hover::before {
+    opacity: .8;
+}
+
+@media screen and (min-width:768px) {
+    .cover {
+        margin-top: 12%;
+        display: block;
+        position: relative;
+        background-image: url(../../images/__background.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        height: calc(100vw / 1.6);
+        width: 100%;
+        z-index: 0;
+        transition: 1s ease;
+    }
+
+    .cover::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #2A2C2F;
+        width: 100%;
+        background-size: 100%;
+        height: calc(100vw / 1.6);
+        opacity: .3;
+        z-index: 1;
+        transition: 1s ease;
+    }
+
+    .cover:hover::before {
+        opacity: .8;
+    }
+}
+
+
+@media screen and (min-width:1024px) {
+    .cover {
+        margin-top: 8.9%;
+        display: block;
+        position: relative;
+        background-image: url(../../images/__background.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        height: calc(100vw / 1.6);
+        width: 100%;
+        z-index: 0;
+        transition: 1s ease;
+    }
+
+    .cover::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #2A2C2F;
+        width: 100%;
+        background-size: 100%;
+        height: calc(100vw / 1.6);
+        opacity: .3;
+        z-index: 1;
+        transition: 1s ease;
+    }
+
+    .cover:hover::before {
+        opacity: .8;
+    }
+}
+
+
+@media screen and (min-width:1280px) {
+    .cover {
+        margin-top: 7.2%;
+        display: block;
+        position: relative;
+        background-image: url(../../images/__background.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        height: calc(100vw / 1.6);
+        width: 100%;
+        z-index: 0;
+        transition: 1s ease;
+    }
+
+    .cover::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #2A2C2F;
+        width: 100%;
+        background-size: 100%;
+        height: calc(100vw / 1.6);
+        opacity: .3;
+        z-index: 1;
+        transition: 1s ease;
+    }
+
+    .cover:hover::before {
+        opacity: .8;
+    }
+}

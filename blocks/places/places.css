@@ -1,0 +1,38 @@
+.places {
+    margin: 20% auto 0;
+    width: 90%;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (min-width:768px) {
+    .places {
+        margin: 12% auto 0;
+        width: 93%;
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .places {
+        margin: 8.5% auto 0;
+        width: 91%;
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width:1280px) {
+    .places {
+        margin: 7.2% auto 0;
+        width: 77%;
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+
+    }
+}

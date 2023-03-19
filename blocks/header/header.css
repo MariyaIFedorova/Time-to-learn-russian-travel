@@ -1,0 +1,38 @@
+.header {
+    margin: 0 auto;
+    width: 90%;
+    padding-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (min-width:768px) {
+    .header {
+        margin: 0 auto;
+        width: 94%;
+        padding-top: 4%;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .header {
+        margin: 0 auto;
+        width: 90%;
+        padding-top: 3%;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+@media screen and (min-width:1280px) {
+    .header {
+        margin: 0 auto;
+        width: 92%;
+        padding-top: 2%;
+        display: flex;
+        justify-content: space-between;
+
+    }
+}
