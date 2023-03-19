@@ -15,7 +15,6 @@
         font-weight: 900;
         margin: 0;
         justify-content: start;
-        align-self: center;
         grid-area: title;
     }
 }
@@ -28,7 +27,6 @@
         font-weight: 900;
         line-height: 4.75rem;
         justify-content: start;
-        align-self: center;
     }
 }
 
@@ -40,6 +38,5 @@
         margin: 0;
         grid-area: title;
         justify-content: start;
-        align-self: center;
     }
 }

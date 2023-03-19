@@ -22,7 +22,7 @@
         font-size: 0.75rem;
         line-height: 0.75rem;
         font-weight: 400;
-        align-self: self-end;
+        align-content: start;
     }
 }
 
@@ -34,7 +34,7 @@
         font-size: 0.75rem;
         line-height: 0.75rem;
         font-weight: 400;
-        align-self: self-end;
+        align-content: start;
     }
 }
 
@@ -46,6 +46,6 @@
         font-size: 0.75rem;
         line-height: 0.75rem;
         font-weight: 400;
-        align-self: self-end;
+        align-content: start;
     }
 }
