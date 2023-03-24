@@ -1,45 +1,26 @@
 .intro__list {
-    margin: 0;
     list-style-type: none;
-    padding-top: 12%;
+    margin: 11.809% 0 0 0;
     padding-left: 0;
     font-size: 0.75rem;
-    line-height: 1.1rem;
-    font-weight: bold;
+    line-height: 1.125rem;
+    font-weight: 700;
 }
 
 @media screen and (min-width:768px) {
     .intro__list {
-        margin: 0;
-        list-style-type: none;
-        padding-top: 4.6%;
-        padding-left: 0;
-        font-size: 0.75rem;
-        line-height: 1.1rem;
-        font-weight: bold;
+        margin: 4.584% 0 0 0;
     }
 }
 
 @media screen and (min-width:1024px) {
     .intro__list {
-        margin: 0;
-        list-style-type: none;
-        padding-top: 4.8%;
-        padding-left: 0;
-        font-size: 0.75rem;
-        line-height: 1.1rem;
-        font-weight: bold;
+        margin: 4.783% 0 0 0;
     }
 }
 
 @media screen and (min-width:1280px) {
     .intro__list {
-        margin: 0;
-        list-style-type: none;
-        padding-top: 4.8%;
-        padding-left: 0;
-        font-size: 0.77rem;
-        line-height: 1.1rem;
-        font-weight: bold;
+        font-size: 0.75rem;
     }
 }

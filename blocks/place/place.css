@@ -8,45 +8,26 @@
 
 @media screen and (min-width:768px) {
     .place {
-        margin: 0;
-        display: grid;
-        box-sizing: border-box;
-        grid-template-columns: repeat(2, 44%);
-        grid-template-rows: repeat(2, 8%) minmax(min-content, max-content);
+        grid-template-columns: 47.223% 48.89%;
+        grid-template-rows: repeat(2, minmax(min-content, max-content));
         grid-template-areas:
-            "title url"
             "title website"
             "image paragraph";
-        column-gap: calc(100vw /27);
+        column-gap: 1.75rem;
+        row-gap: 3rem;
     }
 }
 
 @media screen and (min-width:1024px) {
     .place {
-        margin: 0;
-        display: grid;
-        box-sizing: border-box;
-        grid-template-columns: repeat(2, 44%);
-        grid-template-rows: repeat(2, minmax(min-content, max-content)) minmax(min-content, max-content);
-        grid-template-areas:
-            "title url"
-            "title website"
-            "image paragraph";
-        column-gap: calc(100vw /32);
+        grid-template-columns: 44.716% 46.342%;
+        column-gap: 2rem;
     }
 }
 
 @media screen and (min-width:1280px) {
     .place {
-        margin: 0;
-        display: grid;
-        box-sizing: border-box;
-        grid-template-columns: repeat(2, 45%);
-        grid-template-rows: repeat(2, minmax(min-content, max-content)) minmax(min-content, max-content);
-        grid-template-areas:
-            "title url"
-            "title website"
-            "image paragraph";
-        column-gap: calc(100vw /32);
+        grid-template-columns: 46.748% 49.187%;
+        column-gap: 2.5rem;
     }
 }

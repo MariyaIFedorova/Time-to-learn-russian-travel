@@ -8,29 +8,12 @@
 
 @media screen and (min-width:768px) {
     .intro__text {
-        margin: 0;
-        padding-top: 5.2%;
-        font-size: 1rem;
-        line-height: 1.63rem;
+        padding-top: 5.556%;
     }
 }
 
 @media screen and (min-width:1024px) {
     .intro__text {
-        margin: 0;
-        padding-top: 5.8%;
-        font-size: 1rem;
-        font-weight: 400;
-        line-height: 1.63rem;
-    }
-}
-
-@media screen and (min-width:1280px) {
-    .intro__text {
-        margin: 0;
-        padding-top: 5.8%;
-        font-size: 1rem;
-        font-weight: 400;
-        line-height: 1.63rem;
+        padding-top: 5.798%;
     }
 }

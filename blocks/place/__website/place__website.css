@@ -1,51 +1,16 @@
 .place__website {
-    display: block;
-    color: #fff;
-    margin: 0;
-    padding-top: 5.3%;
-    font-size: 1.125rem;
-    line-height: 1.3rem;
-    font-weight: 400;
-    justify-content: left;
-    align-content: start;
-}
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    row-gap: 12px;
+    margin: 0 0 0 5%;
 
-.place__website:hover {
-    cursor: url(../../../images/pointer.png), auto;
 }
 
 @media screen and (min-width:768px) {
     .place__website {
-        display: block;
         margin: 0;
         grid-area: website;
-        font-size: 0.75rem;
-        line-height: 0.75rem;
-        font-weight: 400;
-        align-content: start;
-    }
-}
-
-@media screen and (min-width:1024px) {
-    .place__website {
-        display: block;
-        margin: 0;
-        grid-area: website;
-        font-size: 0.75rem;
-        line-height: 0.75rem;
-        font-weight: 400;
-        align-content: start;
-    }
-}
-
-@media screen and (min-width:1280px) {
-    .place__website {
-        display: block;
-        margin: 0;
-        grid-area: website;
-        font-size: 0.75rem;
-        line-height: 0.75rem;
-        font-weight: 400;
-        align-content: start;
+        align-self: self-end;
     }
 }

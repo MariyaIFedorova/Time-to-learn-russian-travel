@@ -1,0 +1,21 @@
+.header__lang-links {
+    margin: 6.1% 0 0 0;
+}
+
+@media screen and (min-width:768px) {
+    .header__lang-links {
+        margin: 4% 0 0 0;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .header__lang-links {
+        margin: 2% 0 0 0;
+    }
+}
+
+@media screen and (min-width:1280px) {
+    .header__lang-links {
+        margin: 1.5% 0 0 0;
+    }
+}

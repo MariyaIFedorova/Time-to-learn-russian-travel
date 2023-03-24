@@ -10,9 +10,6 @@
     .root {
         min-width: 768px;
         max-width: 1024px;
-        background-color: #2A2C2F;
-        font-family: 'Inter', Arial, sans-serif;
-        text-rendering: optimizeLegibility;
     }
 }
 
@@ -20,17 +17,11 @@
     .root {
         min-width: 1024px;
         max-width: 1280px;
-        background-color: #2A2C2F;
-        font-family: 'Inter', Arial, sans-serif;
-        text-rendering: optimizeLegibility;
     }
 }
 
 @media screen and (min-width:1280px) {
     .root {
         min-width: 1280px;
-        background-color: #2A2C2F;
-        font-family: 'Inter', Arial, sans-serif;
-        text-rendering: optimizeLegibility;
     }
 }

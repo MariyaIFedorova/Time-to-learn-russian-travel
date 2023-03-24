@@ -1,31 +1,28 @@
 .lead__image {
-    padding-top: 12%;
-    max-width: 100%;
+    display: block;
+    object-fit: cover;
+    margin: 12.5% 0 0 0;
+    width: 100%;
+    min-width: 320px;
     height: auto;
 }
 
 @media screen and (min-width:768px) {
     .lead__image {
-        padding-top: 7%;
-        max-width: 100%;
-        height: auto;
+        margin-top: 7.292%;
     }
 }
 
 @media screen and (min-width:1024px) {
     .lead__image {
-        padding-top: 5.5%;
-        margin: 0 auto;
-        max-width: 91%;
-        height: auto;
+        margin: 5.469% auto 0;
+        max-width: 90.625%;
     }
 }
 
 @media screen and (min-width:1280px) {
     .lead__image {
-        padding-top: 5%;
-        margin: 0 auto;
-        max-width: 77%;
-        height: auto;
+        margin-top: 5.334%;
+        max-width: 76.875%;
     }
 }

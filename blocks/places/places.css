@@ -1,38 +1,32 @@
 .places {
     margin: 20% auto 0;
-    width: 90%;
+    width: 100%;
     color: #fff;
     display: flex;
     flex-direction: column;
+    row-gap: 3.125rem;
 }
 
 @media screen and (min-width:768px) {
     .places {
-        margin: 12% auto 0;
-        width: 93%;
-        color: #fff;
-        display: flex;
-        flex-direction: column;
+        margin: 11.459% auto 0;
+        width: 93.75%;
+        row-gap: 4.5625rem;
     }
 }
 
 @media screen and (min-width:1024px) {
     .places {
-        margin: 8.5% auto 0;
-        width: 91%;
-        color: #fff;
-        display: flex;
-        flex-direction: column;
+        margin: 8.985% auto 0;
+        width: 96.094%;
+        row-gap: 5rem;
     }
 }
 
 @media screen and (min-width:1280px) {
     .places {
-        margin: 7.2% auto 0;
-        width: 77%;
-        color: #fff;
-        display: flex;
-        flex-direction: column;
-
+        margin: 7.188% auto 0;
+        width: 76.875%;
+        row-gap: 5rem;
     }
 }

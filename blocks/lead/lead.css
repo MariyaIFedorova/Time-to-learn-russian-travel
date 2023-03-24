@@ -1,34 +1,23 @@
 .lead {
     display: flex;
     flex-direction: column;
-    position: relative;
-    padding-top: 15%;
+    margin-top: 15%;
 }
 
 @media screen and (min-width:768px) {
     .lead {
-        display: flex;
-        flex-direction: column;
-        position: relative;
-        padding-top: 6.3%;
+        margin-top: 6.25%;
     }
 }
 
 @media screen and (min-width:1024px) {
     .lead {
-        display: flex;
-        flex-direction: column;
-        position: relative;
-        padding-top: 4.7%;
+        margin-top: 4.7%;
     }
 }
 
 @media screen and (min-width:1280px) {
     .lead {
-        display: flex;
-        flex-direction: column;
-        position: relative;
-        padding-top: 4.4%;
-
+        margin-top: 4.69%;
     }
 }
