@@ -1,19 +1,17 @@
 .place__website-title {
     width: 90%;
-    color: #fff;
+    color: #aaa;
     margin: 11.112% 0 0 0;
     letter-spacing: 0.125rem;
     font-size: 0.75rem;
     font-weight: 400;
     line-height: 0.75rem;
     text-transform: uppercase;
-
 }
 
 @media screen and (min-width:768px) {
     .place__website-title {
         margin: 0;
-
     }
 }
 

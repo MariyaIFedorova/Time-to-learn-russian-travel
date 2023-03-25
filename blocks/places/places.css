@@ -18,7 +18,7 @@
 @media screen and (min-width:1024px) {
     .places {
         margin: 8.985% auto 0;
-        width: 96.094%;
+        width: 90.235%;
         row-gap: 5rem;
     }
 }
@@ -27,6 +27,5 @@
     .places {
         margin: 7.188% auto 0;
         width: 76.875%;
-        row-gap: 5rem;
     }
 }

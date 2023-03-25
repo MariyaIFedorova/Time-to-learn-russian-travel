@@ -1,7 +1,6 @@
 .cover {
     margin-top: 21.25%;
     display: block;
-    position: relative;
     width: 100%;
 }
 
@@ -21,6 +20,5 @@
     .cover {
         width: 92.5%;
         margin: 7.188% auto 0;
-        height: calc(100vw / 1.72971);
     }
 }

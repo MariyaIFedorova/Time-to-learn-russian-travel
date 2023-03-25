@@ -17,11 +17,13 @@
 @media screen and (min-width:1024px) {
     .footer {
         margin: 8.985% auto 0;
+        width: 90.625%
     }
 }
 
 @media screen and (min-width:1280px) {
     .footer {
         margin: 7.188% auto 0;
+        width: 92.5%;
     }
 }

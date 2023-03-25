@@ -7,7 +7,6 @@
     grid-template-columns: 100%;
     grid-template-rows: auto;
     gap: 0.75rem;
-    overflow: hidden;
 }
 
 @media screen and (min-width:768px) {

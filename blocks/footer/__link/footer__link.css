@@ -5,11 +5,7 @@
     font-size: 1.5rem;
     line-height: 1.5rem;
     font-weight: 400;
-    transition: 0.5 ease;
-}
-
-.footer__link:last-child {
-    margin-bottom: 0;
+    transition: 0.5s ease;
 }
 
 .footer__link:hover {

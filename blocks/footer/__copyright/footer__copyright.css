@@ -9,6 +9,7 @@
 @media screen and (min-width:768px) {
     .footer__copyright {
         margin: 0 0 3.473%;
+        line-height: 1rem;
     }
 }
 
