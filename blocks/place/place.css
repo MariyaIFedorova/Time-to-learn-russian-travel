@@ -20,7 +20,7 @@
 
 @media screen and (min-width:1024px) {
     .place {
-        grid-template-columns: 44.716% 46.342%;
+        grid-template-columns: 47.62% 49.351%;
         column-gap: 2rem;
     }
 }
